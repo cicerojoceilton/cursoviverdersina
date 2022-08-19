@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border-sizing: border-box;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ceff00;
+    font-family: 'Poppins', sans-serif;
+}
+
+section .video {
+    padding: 10px;
+}
+
+section .video video {
+    width:300px;
+}
+
+
+section .content {
+    padding: 10px;
+}
+
+section .botao {
+    width: 100vw;
+    padding: 10px;
+}
+
+section .botao img {
+    width: 70%;
+}
