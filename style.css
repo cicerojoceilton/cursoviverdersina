@@ -36,5 +36,6 @@ section .botao {
 }
 
 section .botao img {
-    width: 70%;
+    width: 30%;
+    max-height: 150px;
 }
