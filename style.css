@@ -22,7 +22,7 @@ section .video {
 }
 
 section .video video {
-    width:600px;
+    width:700px;
 }
 
 
@@ -38,5 +38,5 @@ section .botao {
 
 section .botao img {
     width: 30%;
-    max-height: 150px;
+    max-height: 300px;
 }
