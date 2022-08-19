@@ -33,6 +33,7 @@ section .content {
 section .botao {
     width: 100vw;
     padding: 10px;
+    text-align: center;
 }
 
 section .botao img {
