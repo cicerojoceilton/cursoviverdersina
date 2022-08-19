@@ -30,6 +30,10 @@ section .content {
     padding: 10px;
 }
 
+section .content h1 {
+    color: #fff;
+}
+
 section .botao {
     width: 100vw;
     padding: 10px;
